@@ -29,8 +29,8 @@
 </ul>
 
 <h2>Installation</h2>
-<pre><code>git clone &lt;repository_url&gt;
-cd &lt;repository_directory&gt;</code></pre>
+<pre><code>git clone https://github.com/phoenix-110-135/bale_bot.git
+cd &lt;bale_bot&gt;</code></pre>
 <pre><code>pip install bale</code></pre>
 <p>Create the SQLite databases:</p>
 <ul>
