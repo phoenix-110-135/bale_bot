@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>README for Telegram Bot</h1>
+<h1>README for game bale Bot</h1>
 
 <h2>Overview</h2>
 <p>This is a simple Telegram bot built using the Bale framework that allows users to play a guessing game, earn coins, and generate discount codes. The bot interacts with users through inline buttons and stores user data in SQLite databases.</p>
