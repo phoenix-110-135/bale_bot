@@ -4,30 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Telegram Bot README</title>
-  <style>
-      body {
-          font-family: Arial, sans-serif;
-          line-height: 1.6;
-          margin: 20px;
-          padding: 20px;
-          border: 1px solid #ccc;
-          border-radius: 5px;
-          background-color: #f9f9f9;
-      }
-      h1, h2, h3 {
-          color: #333;
-      }
-      code {
-          background-color: #eaeaea;
-          padding: 2px 4px;
-          border-radius: 3px;
-      }
-      pre {
-          background-color: #eaeaea;
-          padding: 10px;
-          border-radius: 5px;
-      }
-  </style>
+
 </head>
 <body>
 
