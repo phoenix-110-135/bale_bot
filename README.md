@@ -43,7 +43,7 @@ cd &lt;bale_bot&gt;</code></pre>
   <li>Replace <code>your_token</code> in the bot initialization with your actual Telegram bot token.</li>
   <pre><code>bot = Bot(token="your_token")</code></pre>
   <li>Run the bot:</li>
-  <pre><code>python bot.py</code></pre>
+  <pre><code>python game.py</code></pre>
 </ol>
 
 <h2>Bot Commands</h2>
