@@ -1,1 +1,5 @@
-
+bale==1.1.0       # Telegram bot framework
+sqlite3==2.6.0    # SQLite database management (usually included with Python)
+random==2.3.0     # Random number generation
+string==1.0.0     # String manipulation
+json==2.0.9       # JSON handling
