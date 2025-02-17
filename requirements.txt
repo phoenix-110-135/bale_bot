@@ -1,5 +1,5 @@
 python-bale-bot       
-sqlite3
+sqlite
 random     
 string    
 json      
