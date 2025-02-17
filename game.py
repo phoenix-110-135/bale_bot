@@ -67,8 +67,8 @@ def gen_random_code(length=8):
     return random_code
 
 # end database
-
-bot = Bot(token="") # your token
+x = input("pleas write your token bale bot = ")
+bot = Bot(token=x) # your token
 
 @bot.event 
 async def on_ready():
